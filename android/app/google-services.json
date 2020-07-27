@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573155869395",
+    "firebase_url": "https://medical-profile-assistan-a596b.firebaseio.com",
+    "project_id": "medical-profile-assistan-a596b",
+    "storage_bucket": "medical-profile-assistan-a596b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573155869395:android:20a07c92152697f19cca26",
+        "android_client_info": {
+          "package_name": "com.smart.medical_profile_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573155869395-1gcii7vtu7q3o2kmtdga2qtkslt6rdek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3tme62oJV2-zUmgy7QaAJ0Ukda2nwqHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573155869395-1gcii7vtu7q3o2kmtdga2qtkslt6rdek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
